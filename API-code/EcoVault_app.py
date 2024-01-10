@@ -1,3 +1,11 @@
+"""
+This is a prototype for other functions that can be included in the EcoVault API.
+It mainly consists of various data visualisation methods to track carbon credit pricing. 
+The data is sourced from World Bank and has been cleaned to better facilitate coding. 
+
+The code creates a desktop app run on Streamlit (https://streamlit.io/)
+"""
+
 import streamlit as st
 from PIL import Image
 import pandas as pd
