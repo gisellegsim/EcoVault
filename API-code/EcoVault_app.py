@@ -1,7 +1,7 @@
 """
 This is a prototype for other functions that can be included in the EcoVault API.
 It mainly consists of various data visualisation methods to track carbon credit pricing. 
-The data is sourced from World Bank and has been cleaned to better facilitate coding. 
+The data is sourced from World Bank and has been cleaned to better facilitate manipulation. 
 
 The code creates a desktop app run on Streamlit (https://streamlit.io/)
 """
