@@ -5,7 +5,7 @@ The data is sourced from World Bank and has been cleaned to better facilitate ma
 
 The code creates a desktop app run on Streamlit (https://streamlit.io/)
 
-To be used in conjunction with wallet.py in the XRPL-code folder
+To be used in conjunction with wallet.py in the XRPL-code folder.
 """
 
 import streamlit as st
