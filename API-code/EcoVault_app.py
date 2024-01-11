@@ -4,6 +4,8 @@ It mainly consists of various data visualisation methods to track carbon credit 
 The data is sourced from World Bank and has been cleaned to better facilitate manipulation. 
 
 The code creates a desktop app run on Streamlit (https://streamlit.io/)
+
+To be used in conjunction with wallet.py in the XRPL-code folder
 """
 
 import streamlit as st
